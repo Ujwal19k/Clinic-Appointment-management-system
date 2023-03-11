@@ -1,0 +1,3 @@
+Copy this 'clinic@0020appointment' folder in " C:\xampp\mysql\data " 
+
+		
